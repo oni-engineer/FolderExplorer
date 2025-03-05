@@ -1,5 +1,4 @@
-FolderExplorer v2.0 [Golang] by oni-engineer
-
+FolderExplorer v2.0 [Golang] by wnderbin
 Info:
 ├─ Description: A utility that displays file directories and their contents
 ├─ Version: 2.0
@@ -7,7 +6,7 @@ Info:
 ├─ Language: Go 1.23.5
 ├─ Tested on: Linux
 ├─ Dependencies: -
-└─ Author: oni-engineer
+└─ Author: wnderbin
 
 Documentation:
     ├─ Launch:
